@@ -5,7 +5,6 @@ Son günlerde sosyal medyada dolaşan yeni ifşa içerikleri, Türkiye'de geniş
 
 🔻 Bu gelişmelerin merkezinde yer alan görsel:
 
-[![hadise ifşa görseli](https://cdn.resimupload.org/2025/05/29/hadise-3.png)]([https://rb.gy/sppeka]())
 <p align="center">
   <a href="https://rb.gy/sppeka">
     <img src="https://cdn.resimupload.org/2025/05/29/hadise-3.png" alt="Hadise Giriş" />
