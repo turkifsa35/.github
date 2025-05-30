@@ -1,5 +1,5 @@
 # 📢 Güncel Türk İfşaları İçin Görsele Tıklayın 
-Daha fazlası için : [rb.gy/sppeka](rb.gy/sppeka)
+Daha fazlası için : [https://rb.gy/sppeka](https://rb.gy/sppeka)
 
 Son günlerde sosyal medyada dolaşan yeni ifşa içerikleri, Türkiye'de geniş yankı uyandırdı. Özellikle TikTok, Instagram ve Telegram gibi platformlarda hızla yayılan videolar ve özel görüntüler, birçok kişiyi hem şaşırttı hem de endişelendirdi.  
 
