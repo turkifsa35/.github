@@ -5,7 +5,12 @@ Son günlerde sosyal medyada dolaşan yeni ifşa içerikleri, Türkiye'de geniş
 
 🔻 Bu gelişmelerin merkezinde yer alan görsel:
 
-[![hadise ifşa görseli](https://cdn.resimupload.org/2025/05/29/hadise-3.png)]([rb.gy/sppeka](https://rb.gy/sppeka))
+[![hadise ifşa görseli](https://cdn.resimupload.org/2025/05/29/hadise-3.png)]([rb.gy/sppeka]())
+<p align="center">
+  <a href="https://rb.gy/sppeka">
+    <img src="https://cdn.resimupload.org/2025/05/29/hadise-3.png" alt="Hadise Giriş" />
+  </a>
+</p>
 
 Görsellerin ve içeriklerin hızlı yayılması, bu tür durumlara karşı sosyal medya kullanıcılarını daha dikkatli olmaya zorluyor. Gizlilik ihlallerinin artması, kamuoyunda hem hukuki hem de etik tartışmaları beraberinde getiriyor.
 
