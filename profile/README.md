@@ -15,4 +15,4 @@ Görsellerin ve içeriklerin hızlı yayılması, bu tür durumlara karşı sosy
 - 🔒 Kişisel verilerin korunması yasaları, bu tür durumlarda devreye giriyor ancak her zaman yeterli olmayabiliyor.  
 - ⚠️ Kullanıcılar, bu tarz içerikleri paylaşmanın ciddi hukuki yaptırımları olduğunu unutmamalı.  
 
-> 📎 Daha fazlası için detaylı bilgi: [rb.gy/sppeka(rb.gy/sppeka)
+> 📎 Daha fazlası için detaylı bilgi: [https://rb.gy/sppeka](https://rb.gy/sppeka))
